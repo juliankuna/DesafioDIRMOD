@@ -1,0 +1,18 @@
+ 20/5/2021 10:31:49 
+ Texto: hi 
+ conversion: 44 444  
+ 20/5/2021 10:31:52 
+ Texto: yes 
+ conversion: 999337777 
+ 20/5/2021 10:31:58 
+ Texto: foo bar 
+ conversion: 333666 666022 2777 
+ 20/5/2021 10:32:13 
+ Texto: hello world 
+ conversion: 4433555 555666096667775553 
+ 20/5/2021 10:39:27 
+ Texto: afa 
+ conversion: 23332 
+ 20/5/2021 11:37:58 
+ Texto: HI 
+ conversion: 44 444  

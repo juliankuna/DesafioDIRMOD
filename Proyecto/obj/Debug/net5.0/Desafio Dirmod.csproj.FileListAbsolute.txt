@@ -1,0 +1,64 @@
+D:/Dirmod/Curso JS + React/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.exe
+D:/Dirmod/Curso JS + React/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.deps.json
+D:/Dirmod/Curso JS + React/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.runtimeconfig.json
+D:/Dirmod/Curso JS + React/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.runtimeconfig.dev.json
+D:/Dirmod/Curso JS + React/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.dll
+D:/Dirmod/Curso JS + React/Desafio Dirmod/bin/Debug/net5.0/ref/Desafio Dirmod.dll
+D:/Dirmod/Curso JS + React/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.pdb
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.csprojAssemblyReference.cache
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.GeneratedMSBuildEditorConfig.editorconfig
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.AssemblyInfoInputs.cache
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.AssemblyInfo.cs
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.csproj.CoreCompileInputs.cache
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.dll
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/ref/Desafio Dirmod.dll
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.pdb
+D:/Dirmod/Curso JS + React/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.genruntimeconfig.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.csprojAssemblyReference.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.GeneratedMSBuildEditorConfig.editorconfig
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.AssemblyInfoInputs.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.AssemblyInfo.cs
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.csproj.CoreCompileInputs.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/ref/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.pdb
+/home/aceleradora03/Escritorio/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod
+/home/aceleradora03/Escritorio/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.deps.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.runtimeconfig.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.runtimeconfig.dev.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/bin/Debug/net5.0/ref/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/bin/Debug/net5.0/Desafio Dirmod.pdb
+/home/aceleradora03/Escritorio/Desafio Dirmod/obj/Debug/net5.0/Desafio Dirmod.genruntimeconfig.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/bin/Debug/net5.0/Desafio Dirmod
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/bin/Debug/net5.0/Desafio Dirmod.deps.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/bin/Debug/net5.0/Desafio Dirmod.runtimeconfig.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/bin/Debug/net5.0/Desafio Dirmod.runtimeconfig.dev.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/bin/Debug/net5.0/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/bin/Debug/net5.0/ref/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/bin/Debug/net5.0/Desafio Dirmod.pdb
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/Desafio Dirmod.csprojAssemblyReference.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/Desafio Dirmod.GeneratedMSBuildEditorConfig.editorconfig
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/Desafio Dirmod.AssemblyInfoInputs.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/Desafio Dirmod.AssemblyInfo.cs
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/Desafio Dirmod.csproj.CoreCompileInputs.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/ref/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/Desafio Dirmod.pdb
+/home/aceleradora03/Escritorio/Desafio Dirmod/Programa/obj/Debug/net5.0/Desafio Dirmod.genruntimeconfig.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/bin/Debug/net5.0/Desafio Dirmod
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/bin/Debug/net5.0/Desafio Dirmod.deps.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/bin/Debug/net5.0/Desafio Dirmod.runtimeconfig.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/bin/Debug/net5.0/Desafio Dirmod.runtimeconfig.dev.json
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/bin/Debug/net5.0/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/bin/Debug/net5.0/ref/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/bin/Debug/net5.0/Desafio Dirmod.pdb
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/Desafio Dirmod.csprojAssemblyReference.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/Desafio Dirmod.GeneratedMSBuildEditorConfig.editorconfig
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/Desafio Dirmod.AssemblyInfoInputs.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/Desafio Dirmod.AssemblyInfo.cs
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/Desafio Dirmod.csproj.CoreCompileInputs.cache
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/ref/Desafio Dirmod.dll
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/Desafio Dirmod.pdb
+/home/aceleradora03/Escritorio/Desafio Dirmod/Proyecto/obj/Debug/net5.0/Desafio Dirmod.genruntimeconfig.cache
